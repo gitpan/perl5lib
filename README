@@ -1,4 +1,4 @@
-This package provides an alterate interface to Perl's tied variables.
+This package allows PERL5LIB to be honoured in taint mode.
 
 After unpacking the distribution, to install this module type
  

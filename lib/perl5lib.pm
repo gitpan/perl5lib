@@ -5,7 +5,7 @@ package perl5lib;
 # no warnings; 
 # no strict;
 
-$VERSION = 1.01;
+$VERSION = 1.02;
 
 # I assume that split()ing '' returns an empty list.  Should really
 # require() the version of Perl where this became true but I cannot
